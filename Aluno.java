@@ -1,6 +1,8 @@
 public class Aluno {
 
 	private String nome;
-	   private int id;
+	private int id;
+	
+
 	
 }
